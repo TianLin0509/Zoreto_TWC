@@ -1,0 +1,5 @@
+Transactions on Communications,Trans. Commun.
+Letters,Lett.
+Journal of Selected Topics in Signal Processing, J. Sel. Topics Signal Process.
+Communications,Commun.
+
